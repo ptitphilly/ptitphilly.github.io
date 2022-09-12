@@ -32,10 +32,10 @@ permalink: /:title/
 compress_html:
   clippings: all
   comments: all
-dark_theme: false
+dark_theme: true
 
 # Site meta
-title: Summer
+title: La cuisine de Philly
 tagline: 'Delicious & healthy recipes'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
