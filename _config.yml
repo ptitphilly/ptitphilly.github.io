@@ -42,7 +42,7 @@ keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: https://github.com/ptitphilly/ptitphilly.github.io
 baseurl: /blob/main
 assets: /assets
-images: /images/
+images: /images
 image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
