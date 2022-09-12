@@ -40,7 +40,7 @@ tagline: 'Delicious & healthy recipes'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: https://github.com/ptitphilly/ptitphilly.github.io
-baseurl: /blob/main/
+baseurl: /
 assets: /assets
 images: /images
 image: index-large.jpg
