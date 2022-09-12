@@ -39,7 +39,7 @@ title: Summer
 tagline: 'Delicious & healthy recipes'
 description: 'A simple Jekyll theme with a photo sidebar.'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
-url: https://connor-baer.github.io
+url: https://github.com/ptitphilly/ptitphilly.github.io
 baseurl: /summer
 assets: /assets
 images: /images/
