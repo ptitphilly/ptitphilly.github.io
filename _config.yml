@@ -37,7 +37,7 @@ dark_theme: true
 # Site meta
 title: La cuisine de Philly
 tagline: 'Des recettes au fil des saisons'
-description: 'un carnet de recette au fil des saisons saupoudré d'un peu de diététique et de beaucoup d'amour et de passion'
+description: 'un carnet de recette saupoudré d'un peu de diététique et de beaucoup d'amour et de passion'
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: https://github.com/ptitphilly/ptitphilly.github.io
 baseurl: /
