@@ -52,10 +52,8 @@ author:
   image: author
   url: https://connorbaer.co
   email: hello@connorbaer.co
-  twitter: connor_baer
 
 social:
-  twitter: https://twitter.com/connor_baer
   instagram: https://instagram.com/connor_baer
 
 version: 2.0.0
@@ -76,7 +74,6 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  GitHub: https://github.com/connor-baer/summer
   Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
 
 collections:
