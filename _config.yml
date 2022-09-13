@@ -32,13 +32,13 @@ permalink: /:title/
 compress_html:
   clippings: all
   comments: all
-dark_theme: true
+dark_theme: false
 
 # Site meta
 title: La cuisine de Philly
 tagline: "Des recettes au fil des saisons"
-description: "Un carnet de recette saupoudré de diétéique et d'amour"
-keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
+description: "Un carnet de recette au fil des saisons, saupoudré d'un peu de diététique, de beaucoup d'amour et de passion"
+keywords: "cuisine, recettes, lacuisinedephilly, diététique, sucré, salé, cocktail, patisserie"
 url: https://github.com/ptitphilly/ptitphilly.github.io
 baseurl: /
 assets: /assets
@@ -47,19 +47,16 @@ image: index-large.jpg
 logo: /assets/icons/apple-icon-144x144.png
 
 author:
-  name: Connor Bär
-  bio: Hi, I'm Connor, the author of this blog. Nice to meet you!
+  name: Philippine Chevreux
+  bio: Hello, je suis Philippine l'auteur de ce blog! Bienvenue dans ma cuisine
   image: author
-  url: https://connorbaer.co
-  email: hello@connorbaer.co
+  url: https://ptitphilly.github.io/
+  email: philippine.chevreux@gmail.com
 
 social:
-  instagram: https://instagram.com/connor_baer
+  instagram: https://www.instagram.com/lacuisinedephilly/
 
 version: 2.0.0
-
-github:
-  repo: https://github.com/connor-baer/summer
 
 # Integrations
 # typekit:              fcv7rfe
@@ -74,7 +71,7 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  Download: https://github.com/connor-baer/summer/archive/gh-pages.zip
+  Download: 
 
 collections:
   recipes:
