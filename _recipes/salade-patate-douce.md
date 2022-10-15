@@ -1,6 +1,6 @@
 ---
 title: Salade patate douce et oeuf poché
-ref: salade de patate douce
+ref: salade-patate-douce
 image: true
 time: 45
 category: lunch, diner
