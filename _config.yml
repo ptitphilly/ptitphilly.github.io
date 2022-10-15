@@ -40,7 +40,7 @@ tagline: "Des recettes au fil des saisons"
 description: "Un carnet de recette au fil des saisons, saupoudré d'un peu de diététique, de beaucoup d'amour et de passion"
 keywords: "cuisine, recettes, lacuisinedephilly, diététique, sucré, salé, cocktail, patisserie"
 url: https://github.com/ptitphilly/ptitphilly.github.io
-baseurl: /
+baseurl: 
 assets: /assets
 images: /images
 image: index-large.jpg
