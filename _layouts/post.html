@@ -31,7 +31,7 @@ font: serif
           </div>
         {% elsif site.author %}
           <a {% if site.author.url %}href="{{ site.author.url }}"{% endif %} target="_blank" rel="noopener noreferrer">
-            <div class="author-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}{{ site.author.image }}-small.jpeg')"></div>
+            <div class="author-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/authors/{{ site.author.image }}-small.jpeg')"></div>
           </a>
           <div class="author-text">
             <h4><a {% if site.author.url %}href="{{ site.author.url }}"{% endif %} target="_blank" rel="noopener noreferrer">{{ site.author.name }}</a></h4>

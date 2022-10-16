@@ -1,7 +1,7 @@
 <footer class="footer">
 	<div class="footer-container">
 		<div class="footer-logo">
-			<a href="https://madebyconnor.co/{% if site.url == 'https://madebyconnor.co' and page.url == '/' %}#" data-scroll{% else %}"{% endif %} aria-label="Visit 'Made by Connor.'">{% include custom/logo.html %}</a>
+			<a href="{{ site.navigation.Accueil }}" aria-label="Retour à l'accueil">{% include custom/logo.html %}</a>
 		</div>
 		<div class="footer-navigation">
 			<div class="footer-links">
@@ -10,23 +10,7 @@
 					{% include core/navigation.html %}
 				</nav>
 			</div>
-			<div class="footer-links">
-				<h4 class="footer-title">More Themes</h4>
-				<nav>
-					<ul class="nav">
-						<li class="nav-link">
-							<a href="https://connor-baer.github.io/spring" target="_blank" rel="noopener noreferrer">Spring</a>
-						</li>
-						<li class="nav-link">
-							<a href="https://connor-baer.github.io/autumn" target="_blank" rel="noopener noreferrer">Autumn</a>
-						</li>
-						<li class="nav-link">
-							<a href="https://eating.connor-baer.github.io/winter" target="_blank" rel="noopener noreferrer">Winter</a>
-						</li>
-					</ul>
-				</nav>
-			</div>
 		</div>
-		<h6 class="footer-text">© {{ site.time | date: '%Y' }} <a href="https://twitter.com/{{ site.author.twitter }}" aria-label="Follow {{ site.author.name }} on Twitter.">{{ site.author.name }}</a>. All rights reserved.</h6>
+		<h6 class="footer-text">© {{ site.time | date: '%Y' }} <a href="{{ site.author.social.instagram }}" aria-label="Suivre {{ site.author.name }} sur instagram.">{{ site.author.name }}</a>. Tous droits réservés.</h6>
 	</div>
 </footer>

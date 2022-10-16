@@ -52,9 +52,8 @@ author:
   image: author
   url: https://ptitphilly.github.io/
   email: philippine.chevreux@gmail.com
-
-social:
-  instagram: https://www.instagram.com/lacuisinedephilly/
+  social:
+    instagram: https://www.instagram.com/lacuisinedephilly/
 
 version: 2.0.0
 
@@ -71,7 +70,9 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  Download: 
+  Accueil: / # Home
+  # Articles: about/ # TODO
+  #Télécharger: # TODO
 
 collections:
   recipes:
@@ -83,12 +84,12 @@ defaults:
       type: posts
     values:
       layout: post
-      lang: en
+      lang: fr
       permalink: /news/:title/
   - scope:
       path: ''
       type: recipes
     values:
       layout: recipe
-      lang: en
+      lang: fr
       permalink: /:title/

@@ -54,7 +54,7 @@ script:
 notifications:
   email:
     email:
-      - admin@connorbaer.co
+      - philippine.chevreux@gmail.com
 
 deploy:
   provider: pages
