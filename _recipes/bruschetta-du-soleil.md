@@ -1,6 +1,6 @@
 ---
 title: Bruschetta du soleil
-ref: Bruschetta-du-soleil
+ref: bruschetta-du-soleil
 image: true
 time: 35
 category: lunch, dinner
