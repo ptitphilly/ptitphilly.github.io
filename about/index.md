@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: À propos
 lang: fr
 ref: a-propos

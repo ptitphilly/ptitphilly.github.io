@@ -85,11 +85,11 @@ defaults:
     values:
       layout: post
       lang: fr
-      permalink: /news/:title/
+      permalink: /posts/:title/
   - scope:
       path: ''
       type: recipes
     values:
       layout: recipe
       lang: fr
-      permalink: /:title/
+      permalink: /recipes/:title/
