@@ -1,0 +1,51 @@
+---
+title: crêpes à la courgette
+ref: crêpe-courgette
+image: true
+time: 15
+category: dîner, midi, courgettes, salé, été 
+tags: [ salé, végétarien, végan, courgettes, diner]
+ingredients:
+  -
+    name: courgette
+    amount: 1
+    unit: 
+  -
+    name: Oeufs
+    amount: 4
+    unit:
+  -
+    name: Lait
+    amount: 500
+    unit: ml
+  -
+    name: Farine
+    amount: 375
+    unit: g
+  -
+    name: sel 
+    amount: 1
+    unit: pincée
+  -
+    name: Poivre
+    amount: 2
+    unit: pincée
+  - 
+    name: Beurre
+    amount: 1
+    unit: noisette 
+---
+
+
+1. Préparez votre pâte à crêpe, ajoutez les oeufs, la farine et le lait en mélangeant bien. Assaissonez. Laissez reposer.
+
+2. Pendant que la pâte repose, râpez la courgette finement. Puis ajoutez la à la pâte. Assaissonez.
+
+3.  Dans une poêle faite chauffer une noisette de beurre. Lorsque c'est chaud, étalez une louche de pâte à crêpe. 
+
+Bon appétit :)
+
+
+---
+
+De la cuisine de Philly
