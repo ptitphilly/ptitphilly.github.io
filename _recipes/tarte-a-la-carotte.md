@@ -3,8 +3,8 @@ title: Tarte à la carotte et moutarde
 ref: tarte-carotte
 image: true
 time: 50 
-category: recette salée, tarte, végétarien 
-tags: [ vegetarien, salé, déjeuner, diner]
+category: Déjeuner, Dîner, Salé, Végétarien, Végan, Solide
+tags: [ carotte,tarte ]
 ingredients:
   -
     name: carottes 
@@ -23,7 +23,7 @@ ingredients:
     amount: 
     unit:
   -
-    name: beurre
+    name: beurre ou huile d'olive
     amount: 100
     unit: g
   -

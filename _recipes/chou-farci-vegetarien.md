@@ -1,10 +1,10 @@
 ---
 title: chou farci végétarien
-ref: chou-farci-végétarien
+ref: chou-farci-vegetarien
 image: true
 time: 60
-category: végétarien, déjeuner, diner
-tags: [ végétarien, déjeuner, diner]
+category: Déjeuner, Dîner, Salé, Végétarien, Haché, Solide
+tags: [ cuisine française,lentilles, chataignes, pain sec]
 ingredients:
   -
     name: chou vert
@@ -47,11 +47,13 @@ ingredients:
 
 3. Ecrasez ensuite les chataignes et ajoutez-les au mélange pain-lait.
 
-4. Ajoutez également les lentilleslorsqu'elles ont refroidi.
+4. Ajoutez également les lentilles lorsqu'elles ont refroidi.
 
 5. Puis farcissez le chou en écartant délicatement les feuilles. Attachez le si nécessaire.
 
 6. Cuire à la vapeur ou à la cocotte minute pendant 20 à 40minutes, selon la taille de votre chou(pour vérifier plantez un couteau dedans, il doit transpercer facilement les feuilles).  
+
+L'astuce de la diét': ce plat est un plat complet il est seulement nécessaire de l'accompagner d'une tranche de pain afin de récupérer et fixer toutes les protéines contenues dans les lentilles :) 
 
 ---
 

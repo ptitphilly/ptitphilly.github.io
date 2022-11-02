@@ -3,7 +3,7 @@ title: Salade patate douce et oeuf poché
 ref: salade-patate-douce
 image: true
 time: 45
-category: lunch, diner
+category: Déjeuner, Dîner, Salé, Végétarien, Haché, Solide
 tags: [vegan, vegetarien]
 ingredients:
   - name: patate douce
@@ -43,6 +43,8 @@ Lorsque l'eau est à ébullition, cassez délicatement l'oeuf au dessus ( de pr�
 
 4. Cuisez une a deux minutes et sortez l'oeuf que vous pouvez déposer sur votre salade. 
 Dégustez!!
+
+l'astuce de la diét': choississez bien votre huile pour assaissonez une salade car beaucoup d'huile contenant des oméga 3 et 6 ne se cuisent pas. Faites vous plaisir huile de noix, noisettes, chanvre, pépins de courge, cameline.... 
 ---
 
 _De la cuisine de philly 

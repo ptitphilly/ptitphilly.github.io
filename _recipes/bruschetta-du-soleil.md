@@ -3,8 +3,8 @@ title: Bruschetta du soleil
 ref: bruschetta-du-soleil
 image: true
 time: 35
-category: lunch, dinner
-tags: [vegetables, vegetarian]
+category: Déjeuner, Dîner, Salé, Végétarien, Végan, Solide, Italien
+tags: [aubergines, courgettes, tartines]
 ingredients:
   -
     name: aubergine
@@ -31,7 +31,7 @@ ingredients:
     amount: 1
     unit:
   - 
-    name: fromage
+    name: fromage ou fauxmage
     amount: 
     unit:
 ---
@@ -47,6 +47,9 @@ ingredients:
 5. Dessus étalez une couche de sauce tomate, une couche de légumes et une couche de fromage. Enfournez pour 5minutes à 200°C.
 
 6. Servez avec une salade!
+
+L'astuce de la diét': si vous avez rajouté du fromage sur le sommet de vos Bruschetta cela compte comme la portion de laitage du repas! 
+Si vous cherchez à faire un repas enrichi alors n'hésitez pas à manger un yaourt et: ou un dessert!
 
 ---
 

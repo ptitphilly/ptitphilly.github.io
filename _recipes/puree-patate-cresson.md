@@ -1,10 +1,10 @@
 ---
 title: purée de pomme de terre cresson
-ref: purée-patate-cresson
+ref: puree-patate-cresson
 image: true
-time: /////
-category: végétarien, mixé
-tags: [ végétarien, mixé]
+time: 30
+category: Déjeuner, Dîner, Salé, Végétarien, Végan, Mixé, Haché, Solide
+tags: [ végétarien, mixé, cresson, pomme de terre ]
 ingredients:
   -
     name: pomme de terre
@@ -15,11 +15,11 @@ ingredients:
     amount: 1/2 
     unit: botte
   -
-    name: beurre
+    name: beurre ou huile d'olive
     amount: 30
     unit: g
   -
-    name: lait
+    name: lait ou jus végétal 
     amount: 50
     unit: ml 
   -
@@ -42,6 +42,8 @@ ingredients:
 
 6. Assaissonez et dégustez! 
 
+l'astuce de la diét: Si vous avez du mal à avaler, mixez finement le cresson avant de l'ajouter à la purée de pomme de terre. 
+Pour enrichir la purée n'hésitez pas à remplacer le lait par de la crème 
 ---
 
 De la cuisine de Philly

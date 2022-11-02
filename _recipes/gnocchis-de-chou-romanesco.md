@@ -3,8 +3,8 @@ title: Gnocchis de chou romanesco
 ref: gnocchis-chou-romanesco
 image: true
 time: 75
-category: végétarien, chou
-tags: [ végétarien, cuisine italienne]
+category:  Déjeuner, Dîner, Salé, Végétarien, Haché, Solide, Italien
+tags: [ chou]
 ingredients:
   -
     name: chou romanesco
@@ -26,7 +26,10 @@ ingredients:
     name: Sel et poivre
     amount: 
     unit: 
-  
+  -
+    name: Beurre 
+    amount: 15
+    unit: g
 ---
 
 
@@ -42,6 +45,7 @@ ingredients:
 6. Dans une poêle faite fondre 20g de beurre environ. Egouttez les gnocchis et faites les revenir dans le beurre jusqu'à ce qu'ils soient croustillants.
 Dégustez!
 
+l'astuce de la diét: recette idéale pour faire manger des légumes aux enfants.
 ---
 
 De la cuisine de Philly

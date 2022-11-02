@@ -3,8 +3,8 @@ title: Gateau à la chapelure
 ref: gateau-chapelure
 image: true
 time: 35
-category: gouter, sucré
-tags: [ petit déjeuner, gouter, sucré]
+category: Petit-déjeuner, Goûter, Sucré, Végétarien, Haché, Solide 
+tags: [ pain dur, agrume, Dessert]
 ingredients:
   -
     name: chapelure
@@ -42,7 +42,7 @@ Lorsque votre pâte est homogène, graissez votre moule.
 
 2. Cuisez environ 30minutes à 180°C.
 
-
+l'astuce de la diét': Mes parents m'ont toujours dit qu'on ne jetais pas le pain, cette recette est idéale pour réutiliser votre pain dur! (attention, le pain moisi plus facimement que ce que l'on croit)
 
 ---
 

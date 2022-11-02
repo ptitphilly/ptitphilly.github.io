@@ -1,10 +1,10 @@
 ---
 title: crêpes à la courgette
-ref: crêpe-courgette
+ref: crepe-courgette
 image: true
 time: 15
-category: dîner, midi, courgettes, salé, été 
-tags: [ salé, végétarien, végan, courgettes, diner]
+category: Déjeuner, Dîner, Salé, Végétarien, Mixé, Haché, Solide
+tags: [  courgettes, légumes]
 ingredients:
   -
     name: courgette
@@ -45,6 +45,7 @@ ingredients:
 
 Bon appétit :)
 
+l'astuce de la diét': Vous pouvez très facilement garnir ces crêpes avec du fromage frais ou des tartinades type houmous. leur texture est idéale pour une personne ayant des difficultées à mastiquer!
 
 ---
 
