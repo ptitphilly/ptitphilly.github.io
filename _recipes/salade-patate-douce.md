@@ -3,8 +3,8 @@ title: Salade patate douce et oeuf poché
 ref: salade-patate-douce
 image: true
 time: 45
-category: Déjeuner, Dîner, Salé, Végétarien, Haché, Solide
-tags: [vegan, vegetarien]
+category: 
+tags: [déjeuner, dîner, salé, végétarien, haché, solide, végan]
 ingredients:
   - name: patate douce
     amount: 1

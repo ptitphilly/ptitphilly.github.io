@@ -3,8 +3,8 @@ title: purée de pomme de terre cresson
 ref: puree-patate-cresson
 image: true
 time: 30
-category: Déjeuner, Dîner, Salé, Végétarien, Végan, Mixé, Haché, Solide
-tags: [ végétarien, mixé, cresson, pomme de terre ]
+category: cresson, pomme de terre
+tags: [ déjeuner, dîner, dalé, végétarien, végan, mixé, haché, solide ]
 ingredients:
   -
     name: pomme de terre

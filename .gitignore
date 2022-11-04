@@ -42,3 +42,7 @@ validation-report.json
 node_modules
 
 demo/
+
+.vs/
+.idea/
+.vscode/

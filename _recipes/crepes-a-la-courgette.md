@@ -3,8 +3,8 @@ title: crêpes à la courgette
 ref: crepe-courgette
 image: true
 time: 15
-category: Déjeuner, Dîner, Salé, Végétarien, Mixé, Haché, Solide
-tags: [  courgettes, légumes]
+category: courgettes, légumes
+tags: [ déjeuner, dîner, salé, végétarien, mixé, haché, solide ]
 ingredients:
   -
     name: courgette

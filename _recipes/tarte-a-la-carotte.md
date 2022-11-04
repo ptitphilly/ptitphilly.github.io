@@ -3,8 +3,8 @@ title: Tarte à la carotte et moutarde
 ref: tarte-carotte
 image: true
 time: 50 
-category: Déjeuner, Dîner, Salé, Végétarien, Végan, Solide
-tags: [ carotte,tarte ]
+category: carotte,tarte
+tags: [ déjeuner, dîner, salé, végétarien, végan, solide ]
 ingredients:
   -
     name: carottes 

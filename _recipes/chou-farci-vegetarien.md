@@ -3,8 +3,8 @@ title: chou farci végétarien
 ref: chou-farci-vegetarien
 image: true
 time: 60
-category: Déjeuner, Dîner, Salé, Végétarien, Haché, Solide
-tags: [ cuisine française,lentilles, chataignes, pain sec]
+category: cuisine française,lentilles, chataignes, pain sec
+tags: [ déjeuner, dîner, salé, végétarien, haché, solide ]
 ingredients:
   -
     name: chou vert

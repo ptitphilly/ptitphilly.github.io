@@ -3,8 +3,8 @@ title: Gateau à la chapelure
 ref: gateau-chapelure
 image: true
 time: 35
-category: Petit-déjeuner, Goûter, Sucré, Végétarien, Haché, Solide 
-tags: [ pain dur, agrume, Dessert]
+category: pain, agrume, Dessert
+tags: [ petit-déjeuner, goûter, sucré, végétarien, haché, solide ]
 ingredients:
   -
     name: chapelure
