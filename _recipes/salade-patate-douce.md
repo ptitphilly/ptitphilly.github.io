@@ -4,7 +4,7 @@ ref: salade-patate-douce
 image: true
 time: 45
 category: 
-tags: [déjeuner, dîner, salé, végétarien, haché, solide, végan]
+tags: [ déjeuner, dîner, salé, végétarien, haché, solide, végan ]
 ingredients:
   - name: patate douce
     amount: 1

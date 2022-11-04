@@ -4,7 +4,7 @@ ref: gnocchis-chou-romanesco
 image: true
 time: 75
 category: chou
-tags: [ déjeuner, dîner, salé, végétarien, haché, solide, italien ]
+tags: [ déjeuner, dîner, salé, végétarien, haché, solide ]
 ingredients:
   -
     name: chou romanesco

@@ -4,7 +4,7 @@ ref: Cookallie
 image: true
 time: /////
 category: 
-tags: [ gouter, sucré]
+tags: [ goûter, sucré ]
 ingredients:
   -
    base de cookie:

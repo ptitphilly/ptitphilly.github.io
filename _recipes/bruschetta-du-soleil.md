@@ -4,7 +4,7 @@ ref: bruschetta-du-soleil
 image: true
 time: 35
 category: aubergines, courgettes, tartines
-tags: [déjeuner, dîner, salé, végétarien, végan, solide, italien]
+tags: [déjeuner, dîner, salé, végétarien, végan, solide ]
 ingredients:
   -
     name: aubergine
