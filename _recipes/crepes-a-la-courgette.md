@@ -1,6 +1,6 @@
 ---
 title: crêpes à la courgette
-ref: crepe-courgette
+ref: crepes-courgette
 image: true
 time: 15
 category: courgettes, légumes
