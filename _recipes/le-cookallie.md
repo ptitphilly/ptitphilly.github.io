@@ -2,12 +2,11 @@
 title: Cookallie
 ref: cookallie
 image: true
-time: /////
-category: 
+time: 40
+category: sucré, gourmand
 tags: [ goûter, sucré ]
 ingredients:
   -
-   base de cookie:
     name: farine
     amount: 150
     unit: g
@@ -32,7 +31,6 @@ ingredients:
     amount: 1
     unit: pincée
   - 
-   autres ingrédients:
     name: noix de coco en poudre
     amount: 80
     unit: g
