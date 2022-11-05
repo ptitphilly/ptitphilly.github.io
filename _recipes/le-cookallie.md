@@ -56,15 +56,27 @@ ingredients:
 
 
 1. Préparez la base de cookies, mélangez la farine, le sucre, la levure et le sel. Ajoutez ensuite le beurre en pommade. Réservez. 
-2. 
 
-3. /
+2. Torréfiez la noix de coco 5 minutes dans un four à 200°C.
+Découpez grossièrement les noix de macadamia.
 
-4. /
+3. Intégrez les noix de coco et de macadamia dans la pate. ajoutez ensuite l'oeuf. 
+La pate doit former une boule si nécessaire ajoutez un peu de farine.
+Lorsque la pâte est prête, mettez la de coté.
 
-5. /
+4. Commencez la préparation du caramel: dans une casserole, à feu moyen, mettez le sucre et attendez qu'il fonde en surveillant bien.  Lorsque tout est fondu et que le sucre a pris une jolie couleur caramel, hors du feu, ajoutez le beurre en petit morceaux. Puis remettez la casserole sur le feu et ajoutez la crême fraîche. Laissez refroidir le caramel. 
 
-6. /
+5. Formez des boules avec la pate à cookies, creusez les en gardant votre pâte bien imperméable , ajoutez un peu de caramel refroidi dans le coeur puis refermez la boule. Faites ainsi de suite jusqu'à ce qu'il n'y ait plus de pate. 
+
+6. cuisez 9 à 12 minutes à 180°C. 
+
+7. Pendant ce temps faite fondre 100g de chocolat noir avec 3 cuillères à soupe de crême fraîche. Lorsque les cookies sont cuits trempez leur base dans le chocolat fondu et laissez refroidir. 
+
+Bonne dégustation :) 
+
+L'astuce de la diét: se faire plaisir en mangeant des bonnes choses sucrées c'est carrément ok! la privation n'amène que la frustration et déclenche ainsi des craquages d'autant plus gros. Donc on peut manger des cookies de temps en temps sans culpabiliser! 
+
+(recette inspiré du livre les vrais amis ne s'embrasse pas sous la neige de Juliette Bonte ( résumé sur mon instagram))
 
 ---
 
