@@ -1,0 +1,60 @@
+---
+layout: default
+title: Posts
+lang: fr
+ref: posts
+image: true
+---
+
+<div class="index{% if page.image %} entry-hasBackground{% endif %}">
+  <div class="content-top">
+    {% if page.image %}
+      <div class="hero-background" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpeg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpeg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}-large.jpeg') 2x )"></div>
+      <div class="hero-overlay"></div>
+      {% include core/metabar.html color="-white" %}
+    {% else %}
+      {% include core/metabar.html %}
+    {% endif %}
+
+    <header class="content hero">
+      <a id="{{ page.title | url_encode }}"><h1 class="hero-title">{{ site.tagline }}</h1></a>
+    </header>
+  </div>
+
+  <div class="content" id="js-list">
+    <form class="searchbar">
+      <fieldset class="searchbar-group">
+        <label class="searchbar-search" for="js-search">
+          <input class="search form-input" id="js-search" type="search" placeholder="Search recipes, ingredients, tags..." autocomplete="off" onkeypress="return event.keyCode != 13;">
+          <svg class="search-icon form-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+          </svg>
+          <span class="search-highlight form-highlight"></span>
+        </label>
+      </fieldset>
+    </form>
+
+    <ul class="list">
+      {% assign posts = site.posts | where: "lang", page.lang %}
+      {% for page in posts %}
+
+      <li class="list-post">
+        <article>
+          <a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">
+            <div class="list-image" style="background-image: url({{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{% if page.image %}{{ page.ref }}-small.jpeg{% elsif site.image %}{{ site.image }}{% endif %});"></div>
+            <div class="list-body">
+              <span class="list-category category">{{ page.category }}</span>
+              <h3 class="list-header title">{{ page.title }}</h3>
+              {% include custom/meta.html %}
+              <span class="list-ingredients ingredients" data-ingredients="{% for i in page.ingredients %}{{ i.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}"></span>
+            </div>
+          </a>
+        </article>
+      </li>
+
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% include core/footer.html %}
