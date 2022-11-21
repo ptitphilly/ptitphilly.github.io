@@ -6,11 +6,13 @@ ref: a-propos
 image: true
 ---
 
-Bienvenue dans la cuisine de Philly !
-Moi c'est Philly, je suis tombée dans la cuisine toute petite.
- C'est devenu une véritable passion, le but de ce lieu et de vous emmener passer un bon moment avec moi dans ma cuisine et mon univers. 
+Bienvenus dans la cuisine de Philly !
+Je suis tombée dans la cuisine toute petite et c'est devenu une véritable passion. 
  
- La cuisine fait partie de mon quotidien personnel comme professionel. Mon métier est diététicienne auprès des personnes agées. Mon but est de remettre de la gourmandise dans leur vie. C'est pourquoi vous pourrez trouvez quelques articles et conseils diététiques dans mes recettes :) 
+ Diététicienne de métier et végétariennevdepuis quelques temps, je vous propose de vous emmener dans mon univers.
+
+ Vous trouverez ici des conseils pour stimuler la gourmandise et des astuces pour vous aider si vous avez des difficultés à vous alimenter suite à un problème de santé et biensur des recettes testées et approuvées :) 
+
 
 Bonne visite et surtout bon appétit!
 

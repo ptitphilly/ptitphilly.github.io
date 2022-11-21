@@ -48,7 +48,7 @@ logo: /assets/icons/apple-icon-144x144.png
 
 author:
   name: Philippine Chevreux
-  bio: Hello, je suis Philippine l'auteur de ce blog! Bienvenue dans ma cuisine
+  bio: Hello, je suis Philippine l'auteur de ce blog! Bienvenus dans ma cuisine
   image: author
   url: https://ptitphilly.github.io/
   email: philippine.chevreux@gmail.com
@@ -71,7 +71,6 @@ excerpt_separator: <!-- Read more -->
 
 navigation:
   Accueil: / # Home
-  # Articles: about/ # TODO
   #Télécharger: # TODO
 
 collections:
