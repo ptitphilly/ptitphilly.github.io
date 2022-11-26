@@ -70,11 +70,13 @@ google_fonts:
 excerpt_separator: <!-- Read more -->
 
 navigation:
-  Accueil: / # Home
+  Recettes: / # Home
   #Télécharger: # TODO
 
 collections:
   recipes:
+    output: true
+  posts:
     output: true
 
 defaults:
